@@ -1,7 +1,7 @@
 import os
 import shutil
 import time
-path = r"C:/Users/Samuel Lee/OneDrive/Documents/Python Projects/"
+path = r"C:/path-to-ideal-folder/"
 file_name = os.listdir(path)
 folder_names = ['xlsx files', 'image files', 'pdf files', 'word files']
 
