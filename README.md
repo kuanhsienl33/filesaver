@@ -1,2 +1,2 @@
-# File Saver
+# File Sorter
 This is a python project that helps me on a daily basis.
